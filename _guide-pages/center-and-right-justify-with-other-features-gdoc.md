@@ -70,4 +70,4 @@ Image
 
 <span style='font-size:1.05em;color:rgb(29, 28, 29);background-color:rgb(248, 248, 248)'>n</span><img src="/assets/images/guide-pages/center-and-right-justify-with-other-features-kix.enghn2k9g7s1-gdoc.png" title="" alt="img" height="47PT" width="116PT">
 </div>
-</div> 1672778986768
+</div> 1672779102625
