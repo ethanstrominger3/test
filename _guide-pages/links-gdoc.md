@@ -14,4 +14,4 @@ provider-link: /guide-pages/links-gdoc
 
 [Google](https://google.com)
 </div>
-</div> 1672787842450
+</div>
