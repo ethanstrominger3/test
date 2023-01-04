@@ -30,5 +30,3 @@ Impact
 <span style='color:rgb(255, 255, 255);background-color:rgb(255, 0, 255)'>White text with pink bangrounds</span>
 </div>
 </div>
-
-123123
